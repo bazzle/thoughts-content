@@ -1,6 +1,6 @@
 ---
 title: Personal "Thoughts" blog
-slug: personal-thoughts-blog
+slug: 2025-03-30
 date: 2025-03-30
 excerpt: Working on my personal web presence.
 tags:
