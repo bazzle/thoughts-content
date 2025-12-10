@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Truthbombs
 slug: bitcoin-truthbombs
-date: 2025-08-02T17:21:00+01:00
+date: 2025-08-02
 excerpt: 2 minute read articles about Bitcoin I write as I learn about the
   technology and economics.
 tags:
@@ -15,7 +15,7 @@ Another part of this, the community online popularise memes and phrases that bec
 
 So I thought of the idea of 2 minute reads, easy to digest overviews of these concepts. So I developed a WordPress website, designed and built from ground-up using my own naked starter theme [Sapling](https://github.com/bazzle/sapling).
 
-<img className="extended" src="/uploads/truthbombs-home.png" alt="Screenshot of homepage" />
+<PostImage src="/images/blog/truthbombs-home.png" alt="Screenshot of Bitcoin Truthbombs website" extended />
 
 There's not a huge amount to say about the design. I jumped between a few different design options—font pairings and colour pallettes. Landing on an aesthetic I often go for—neon, cyberpunk style with black background, and light foreground colours to create a striking contrast. Along with MidJourney generated images. I settled for Bebas again as the display font. (you make have noted that I used Bebas also for [Satoshi-power](https://satoshi-power.com/))
 

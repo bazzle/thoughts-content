@@ -1,13 +1,13 @@
 ---
 title: A week in Wrocław
 slug: a-week-in-wroclaw
-date: 2025-08-10T23:33:00+01:00
+date: 2025-08-10
 excerpt: Well not quite a week but the name catches.
 tags:
   - weeknotes
 ---
 
-<img src="/uploads/wroclaw.webp" alt="Beer on table with book" />
+<PostImage src="/images/blog/wroclaw.webp" alt="Beer on table with book" />
 
 That's right, tagging along with my wife who had to go for work. Hey, free apartment in a European city in August. I loved the city! very beautiful, historical, incredible food, reasonably priced and easy going people. A lot to see and do, great coffee and baked goods. I could go on. I sat down with a new book, *A Lodging for Wayfaring Men* and a beer by the Oder river on a warm sunny day. I felt compelled to tweet a thought that popped into my mind—what it is that I want from a short holiday, because I've pondered that for a long time.
 

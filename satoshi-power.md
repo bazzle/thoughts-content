@@ -1,7 +1,7 @@
 ---
 title: Satoshi Power
 slug: satoshi-power
-date: 2025-08-21T14:10:00+01:00
+date: 2025-08-21
 excerpt: Fun project looking at how the price of a satoshi compares to the
   smallest units of different fiat currencies.
 tags:
@@ -29,7 +29,7 @@ The rough roadmap is this:
 4. v4 Integrate unit testing using Jest or similar in preparation for v5 which will introduce new features
 5. v5 Introduce a currency converter UI
 
-<img src="/uploads/satoshi-power.png" alt="Satoshi Power Screenshot" className="extended" />
+<PostImage src="/images/blog/satoshi-power.png" alt="Satoshi Power Screenshot" caption="Currency grid" extended />
 
 ## Design notes
 
