@@ -29,16 +29,16 @@ It is hard, nigh on impossible to cover all those aspects in one piece of writin
 
 So I thought of the idea of ~2 minute reads, easy to digest overviews of these concepts. So I developed a WordPress website, designed and built from ground-up using my own naked starter theme [Sapling](https://github.com/bazzle/sapling).
 
-<BrowserFrame src="/images/blog/truthbombs-home.png" alt="Valuarchy website Screenshot" caption="Valuarchy single page" extended />
+<BrowserFrame src="truthbombs-home.png" alt="Valuarchy website Screenshot" caption="Valuarchy single page" extended />
 
 ### Look and feel
 
 There's not a huge amount to say about the design. I jumped between a few different design options—font pairings and colour pallettes. Landing on an aesthetic I often go for—neon, cyberpunk style with black background, and light foreground colours to create a striking contrast. Along with MidJourney generated images. I settled for Bebas again as the display font. (you make have noted that I used Bebas also for [Satoshi-power](https://satoshi-power.com/))
 
 <ShowcaseViewer>
-	<BrowserFrame src="/images/blog/truthbombs-mobile-homepage.png" alt="Homepage article index screenshot" caption="Homepage truthbomb index" mobile />
-	<BrowserFrame src="/images/blog/truthbombs-mobile-article.png" alt="Article hero section" caption="Truthbomb hero section" mobile />
-	<BrowserFrame src="/images/blog/truthbombs-mobile-article2.png" alt="Next article card" caption="Next truthbomb card" mobile />
+	<BrowserFrame src="truthbombs-mobile-homepage.png" alt="Homepage article index screenshot" caption="Homepage truthbomb index" mobile />
+	<BrowserFrame src="truthbombs-mobile-article.png" alt="Article hero section" caption="Truthbomb hero section" mobile />
+	<BrowserFrame src="truthbombs-mobile-article2.png" alt="Next article card" caption="Next truthbomb card" mobile />
 </ShowcaseViewer>
 
 A very Bitcoin-centric quirk on the site, is the use of *Block height* to indicate when the article was published, alongside the conventionally understood date. In the Bitcoin space, blog articles, podcasts and other resources often use block height to indicate the time of publication. It goes into a particularly esoteric rabbit hole about how the blockchain, or timechain presents digitally native time for the first time. A subject thoroughly dissected by Gigi in his article [Bitcoin is time](https://dergigi.com/2021/01/14/bitcoin-is-time/).
