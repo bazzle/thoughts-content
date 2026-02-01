@@ -44,8 +44,8 @@ Heavy striking typography against the brand pink colour, liberal use of white-sp
 ## Challenges
 
 <ShowcaseViewer type="desktop">
-	<BrowserFrame src="bfi-desktop2.png" alt="BFI website Screenshot" caption="BFI Screen culture campaign site homepage" />
 	<BrowserFrame src="bfi-desktop1.png" alt="BFI website Screenshot" caption="BFI Screen culture campaign site homepage" />
+	<BrowserFrame src="bfi-desktop3.png" alt="BFI website Screenshot" caption="Campaign page" />
 </ShowcaseViewer>
 
 * **Content accessibility and structure** To make the nested strategy document structures, and long lengths of text easily navigable and accessible. Part of the reason BFI chose GovPress to work with, was because we used a "long-read" pattern on another website we built ([National Audit Office](https://www.nao.org.uk/)). I had to adapt this pattern because the document navigation needed to link to subpages, aswell as headings on the pages, as opposed to NAO which only links to headings on the page.
@@ -53,6 +53,6 @@ Heavy striking typography against the brand pink colour, liberal use of white-sp
 * **Client training** The editor needed some training on how to structure the content into pages and headings, which define points the user can jump to via the long-read navigation.
 
 <ShowcaseViewer type="desktop">
-	<BrowserFrame src="bfi-desktop3.png" alt="BFI website Screenshot" caption="BFI Screen culture campaign site homepage" />
-	<BrowserFrame src="bfi-desktop4.png" alt="BFI website Screenshot" caption="BFI Screen culture campaign site homepage" />
+	<BrowserFrame src="bfi-desktop1.png" alt="BFI website Screenshot" caption="BFI Screen culture campaign site homepage" />
+	<BrowserFrame src="bfi-desktop2.png" alt="BFI website Screenshot" caption="BFI Screen culture campaign site homepage" />
 </ShowcaseViewer>
