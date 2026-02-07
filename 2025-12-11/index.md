@@ -7,6 +7,8 @@ tags:
   - Showcase
 ---
 
+<BrowserFrame src="satoshi-power-desktop.png" alt="Satoshi Power Screenshot" caption="Additional POP on homepage currency index" extended />
+
 ## Rationale
 
 This was my original summary from my [post back in August this year](/thoughts/2025-08-21)
@@ -24,8 +26,6 @@ Unashamedly cynical and Bitcoin maximalist. Using words like _fiat shitcoins_. N
 ## Homepage currency index
 
 Grid layout showing each fiat currency's name with a percentage bar that depicts the value of a satoshi against that smallest unit, (example British Penny). Along the lines of the original goal, to be able to see, at a glance, this comparison across the most used fiat currencies.
-
-<BrowserFrame src="satoshi-power-desktop.png" alt="Satoshi Power Screenshot" caption="Additional POP on homepage currency index" extended />
 
 I mocked up a grid layout, with each currency occupying a segment of the grid.  Making sure there's no gaps or orphans on desktop and tablet view. This bought into focus the fact that I might have to omit some currencies that the API provides.
 
