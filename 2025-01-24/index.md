@@ -8,7 +8,7 @@ tags:
   - Showcase
 ---
 
-<BrowserFrame src="bfi-homepage-desktop2.png" alt="BFI website Screenshot" caption="Campaign page" extended />
+<BrowserFrame src="bfi-homepage-desktop2.png" alt="BFI website Screenshot" caption="Homepage" extended />
 
 ## Background
 
@@ -29,16 +29,8 @@ BFI approached us to develop a campaign website separate from the main BFI site.
 Striking typography together with the brand pink colour and purple for accents, liberal use of white-space. Powerful and emotive stills and clips from films. Content focussing on the bold aims of the organisation over the subsequent decade, inclusive to cater for the diversity of people who enjoy British films.
 
 <div className="article-images article-images--2 extended">
-	<PostImage
-	src="bfi-desktop-full1.png" 
-	alt="BFI Desktop" 
-	caption="Homepage"
-	/>
-	<PostImage
-		src="bfi-desktop-full2.png" 
-		alt="BFI Desktop" 
-		caption="Strategy landing page"
-	/>
+	<PostImage src="bfi-homepage-desktop-full.png" alt="BFI Desktop" caption="Homepage"/>
+	<PostImage src="bfi-landing-page-desktop-full.png" alt="BFI Desktop" caption="Strategy landing page"/>
 </div>
 
 ## Challenges
@@ -47,11 +39,11 @@ Striking typography together with the brand pink colour and purple for accents, 
 
 <ShowcaseViewer>
 	<BrowserFrame src="bfi-homepage-desktop.png" alt="BFI website Screenshot" caption="Homepage" />
-	<BrowserFrame src="bfi-desktop1.png" alt="BFI website Screenshot" caption="Dropdown navigation opened" />
+	<BrowserFrame src="bfi-homepage-desktop2.png" alt="BFI website Screenshot" caption="Dropdown navigation opened" />
 	<BrowserFrame src="bfi-nav-mobile.png" alt="BFI website navigation Screenshot" caption="Mobile navigation" type="mobile" />
 </ShowcaseViewer>
 
-* **Website Information Architecture** Through discovery sessions with the client, we realised we needed a relatively deep structure defined by parent pillar pages, _long read_ pages which present reports and/or strategy outlines and child pages which are sections of those reports. The latter navigable via the _long-read_ nav component.
+* **Information Architecture** Through discovery, we realised we needed a relatively deep structure defined by parent pillar pages, _long read_ pages which present reports and/or strategy outlines and child pages which are sections of those reports. The latter navigable via the _long-read_ nav component.
 
 <ShowcaseViewer>
 	<BrowserFrame src="bfi-journey1.png" alt="BFI website Screenshot" caption="Pillar page card grid" />
