@@ -1,5 +1,5 @@
 ---
-title: The case for a design Engineer
+title: The case for a Design Engineer
 slug: 2026-03-07
 date: 2026-03-07
 excerpt: And why every delivery team should have one
