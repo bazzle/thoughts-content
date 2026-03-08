@@ -61,9 +61,6 @@ This required an iteration to the design. The additional links would not be pres
 
 At our next design session, we presented the amended design, and the client remained happy. The build of this component was completed within the scoped time.
 
-* this
-* list
-
 I can imagine how this might have ended differently if a conventional designer with a lesser understanding of technical implementation was solely tasked with designing the component.
 
 1. On the first client sign-off, attention would swiftly move to the next talking point in the design — the designer's remit being primarily to ensure the user needs are met, and the client is happy with the direction.
