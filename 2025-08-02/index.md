@@ -2,8 +2,7 @@
 title: Bitcoin Truthbombs
 slug: 2025-08-02
 date: 2025-08-02
-excerpt: 2 minute read articles about Bitcoin I write as I learn about the
-  technology and economics.
+excerpt: 2 minute read articles about Bitcoin I write as I learn about the technology and economics.
 tags:
   - Showcase
 ---

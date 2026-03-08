@@ -2,8 +2,7 @@
 title: My relationship with AI
 slug: 2025-06-01
 date: 2025-06-01
-excerpt: I've been cautious about AI, I've had a strong desire to embrace it to
-  improve my productivity and help my learning but formed some boundaries.
+excerpt: I've been cautious about AI, I've had a strong desire to embrace it to improve my productivity and help my learning but formed some boundaries.
 tags:
   - ai
 ---
