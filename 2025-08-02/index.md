@@ -4,7 +4,7 @@ slug: 2025-08-02
 date: 2025-08-02
 excerpt: 2 minute read articles about Bitcoin I write as I learn about the technology and economics.
 tags:
-  - Showcase
+  - Case studies
 ---
 
 ### UPDATE January 2025

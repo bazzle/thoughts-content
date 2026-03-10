@@ -4,7 +4,7 @@ slug: 2025-09-30
 date: 2025-09-30
 excerpt: Core vs Knots, Satoshi Power and Hitchikers guide
 tags:
-  - monthnotes
+  - month notes
 ---
 ## Week ending 14th September 2025
 

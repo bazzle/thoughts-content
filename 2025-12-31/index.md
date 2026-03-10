@@ -4,7 +4,7 @@ slug: 2025-12-31
 date: 2025-12-31
 excerpt: Wrapping things up, planning the new year
 tags:
-  - monthnotes
+  - month notes
 ---
 ## Week ending 7th December 2025
 

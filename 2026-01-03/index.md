@@ -4,7 +4,7 @@ slug: 2026-01-03
 date: 2026-01-03
 excerpt: Single page website for a novel new voting system
 tags:
-  - Showcase
+  - Case studies
 ---
 
 ## Background
