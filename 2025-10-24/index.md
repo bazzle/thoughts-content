@@ -4,7 +4,7 @@ slug: 2025-10-24
 date: 2025-10-24
 excerpt: Bitcoin Improvement proposal, published by Dathon Ohm
 tags:
-  #### Bitcoin
+  - Bitcoin
 ---
 
 This is Dathon Ohm's first draft proposal for a Bitcoin soft-fork to temporarily limit arbitrary data at the consensus level. Posted here for easier reading (than the PR) [Link to PR](https://github.com/bitcoin/bips/pull/2017)
