@@ -1,10 +1,10 @@
 ---
-title: A week in Wrocław
-slug: 2025-08-10
-date: 2025-08-10
-excerpt: Well not quite a week but the name catches.
+title: Wrocław
+slug: 2025-08-31
+date: 2025-08-31
+excerpt: A week well spent, sitting by the Oder, drinking beer and reading.
 tags:
-  - weeknotes
+  - General
 ---
 
 <PostImage src="wroclaw.webp" alt="Beer on table with book" />

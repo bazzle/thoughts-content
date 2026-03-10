@@ -1,12 +1,13 @@
 ---
-title: Week ending 6th April 2025
-slug: 2025-04-06
-date: 2025-04-06
-excerpt: Working on my "Thoughts" blog site
+title: Month ending 30th April 2025
+slug: 2025-04-30
+date: 2025-04-30
+excerpt: Netlify, decap, git, sass
 tags:
-  - weeknotes
+  - monthnotes
 ---
-I've been making some good progress on this website. I've gone down some rabbit holes.
+
+Had a busy month at dxw. Outside work hours I've been working on this website, and going down a few rabbit holes.
 
 * **Netlify & Decap** A new one for me. I've always just used GitHub pages to host my static sites. When I was researching which CMS to use I chose Decap, which led me to choose Netlify to host the site. Decap was previously Netlify CMS. I like how it works. The CMS is loaded via CDN right into my website. Decap outputs Markdown files to my repo, which triggers a git push, which in turn prompts Netlify to run my build command remotely. Kind of a challenge to my idea that a CMS should write to a database, instead of add files to a repo, but hey, this is how static sites work! Setting up authentication was a bit of a challenge but got there in the end.
 

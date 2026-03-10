@@ -2,8 +2,7 @@
 title: Satoshi Power Phase 1
 slug: 2025-08-21
 date: 2025-08-21
-excerpt: Fun project looking at how the price of a satoshi compares to the
-  smallest units of different fiat currencies.
+excerpt: Fun project looking at how the price of a satoshi compares to the smallest units of different fiat currencies.
 tags:
   - projects
 ---

@@ -1,13 +1,13 @@
 ---
-title: Week ending 14th September 2025
-slug: 2025-09-14
-date: 2025-09-14
-excerpt: "Feeling like we're speeding towards winter. Summer seems to be fading
-  fast. Chillier days and darker evenings. Autumn equinox is just around the
-  corner now. "
+title: Month ending 30th September 2025
+slug: 2025-09-30
+date: 2025-09-30
+excerpt: Core vs Knots, Satoshi Power and Hitchikers guide
 tags:
-  - weeknotes
+  - monthnotes
 ---
+## Week ending 14th September 2025
+
 Feeling like we're speeding towards winter. Summer seems to be fading fast. Chillier days and darker evenings. Autumn equinox is just around the corner now. 
 
 * Been spending a lot of time following the Core vs Knots Bitcoin client implementation drama. Have been consuming countless hours of Bitcoin podcasts.  Planning to get my thoughts down here at some point. I'm glad Knots is gaining ground over Core—currently around 25% of the node network. Proud to be running Knots myself on my Umbrel.
