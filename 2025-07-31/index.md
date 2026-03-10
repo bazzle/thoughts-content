@@ -1,5 +1,5 @@
 ---
-title: Month ending 31st July 2025
+title: July 2025
 slug: 2025-07-31
 date: 2025-07-31
 excerpt: Github pages and 11ty fun, Processwire and some Knut Svanholm

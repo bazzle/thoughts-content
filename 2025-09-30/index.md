@@ -1,5 +1,5 @@
 ---
-title: Month ending 30th September 2025
+title: September 2025
 slug: 2025-09-30
 date: 2025-09-30
 excerpt: Core vs Knots, Satoshi Power and Hitchikers guide

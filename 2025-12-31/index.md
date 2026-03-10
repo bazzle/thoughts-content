@@ -1,5 +1,5 @@
 ---
-title: Month ending 31st December 2025
+title: December 2025
 slug: 2025-12-31
 date: 2025-12-31
 excerpt: Wrapping things up, planning the new year

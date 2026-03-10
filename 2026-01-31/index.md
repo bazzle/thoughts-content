@@ -1,5 +1,5 @@
 ---
-title: Month ending 31st January 2026
+title: January 2026
 slug: 2026-01-31
 date: 2026-01-31
 excerpt: Valuarchy website, JS fundamentals with a new tool

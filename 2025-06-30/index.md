@@ -1,5 +1,5 @@
 ---
-title: Month ending 30th June 2025
+title: June 2025
 slug: 2025-06-30
 date: 2025-06-30
 excerpt: Prague, fine weather, Bitcoin hardware setup
