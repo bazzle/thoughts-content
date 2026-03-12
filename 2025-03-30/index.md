@@ -17,7 +17,7 @@ It was about time I created a new personal website to talk a bit about myself, m
 	extended
 />
 
-I set about designing this thing. To be honest, I haven’t thought about creating a showcase of my work. Not yet anyway. In a later release, I’ll have a blog section which can house case-studies. My aim is for the site to be an informative narrative about me, with a focus on the content, accentuated by type and iconography.
+I set about designing this thing. To be honest, I haven’t thought about creating a showcase of my work. Not yet anyway. In a later release, I’ll have a blog section which can house showcase posts. My aim is for the site to be an informative narrative about me, with a focus on the content, accentuated by type and iconography.
 
 I wanted this project to give me an excuse to geek out with fonts, specifically a variable font. I attended Elliot Jay Stocks’ typography masterclass, where he taught us about how you can serve multiple needs—headings, body text, taglines, captions etc through a single font file.  So I decided to do just that, keep to a single font for the project. By the end I’d decide if this is worth the extra overhead in variable font configuration, as opposed to just adding a selection of fonts from a family.
 

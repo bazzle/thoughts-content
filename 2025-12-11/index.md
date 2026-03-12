@@ -4,7 +4,7 @@ slug: 2025-12-11
 date: 2025-12-11
 excerpt: My slightly quirky sat to fiat currency conversion website
 tags:
-  - Case studies
+  - Showcase
 ---
 
 <BrowserFrame src="satoshi-power-desktop.png" alt="Satoshi Power Screenshot" caption="Additional POP on homepage currency index" extended />

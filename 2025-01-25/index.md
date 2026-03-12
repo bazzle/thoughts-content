@@ -5,7 +5,7 @@ date: 2025-01-25
 noindex: true
 excerpt: Website for Help to Grow campaign
 tags:
-  - Case studies
+  - Showcase
 ---
 
 <BrowserFrame src="htg-homepage.png" alt="Help to Grow" caption="Campaign page" extended />

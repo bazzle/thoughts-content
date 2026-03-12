@@ -5,7 +5,7 @@ date: 2025-01-24
 noindex: true
 excerpt: Website for BFI's 10 year strategy.
 tags:
-  - Case studies
+  - Showcase
 ---
 
 <BrowserFrame src="bfi-homepage-desktop2.png" alt="BFI website Screenshot" caption="Homepage" extended />

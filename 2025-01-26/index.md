@@ -5,7 +5,7 @@ date: 2025-01-26
 noindex: true
 excerpt: Website for University Alliance
 tags:
-  - Case studies
+  - Showcase
 ---
 
 <BrowserFrame src="ua-homepage.png" alt="University Alliance Homepage" caption="University Alliance Homepage" extended />
