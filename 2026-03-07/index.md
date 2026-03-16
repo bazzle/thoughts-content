@@ -7,7 +7,7 @@ tags:
   - thoughts
 ---
 
-<PostImage src="business-case-for-engineer-featured2.png" alt="Beer on table with book" />
+<PostImage src="business-case-for-engineer-featured2.png" alt="Graphic image of 3D printer etching out a web browser model" />
 
 In terms of my day to day responsibilities in my job, I'm generally happy to be pulled to where I'm needed. As I'm multi-disciplined across design and development, that means I have days where I lurch from one end of the design/development spectrum to the other. Designing a solution to a newly informed user need in the morning, addressing a visual bug on a client website in the afternoon.
 
