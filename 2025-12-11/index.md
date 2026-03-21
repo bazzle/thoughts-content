@@ -27,7 +27,7 @@ Unashamedly cynical and Bitcoin maximalist. Using words like _fiat shitcoins_. N
 
 Grid layout showing each fiat currency's name with a percentage bar that depicts the value of a satoshi against that smallest unit, (example British Penny). Along the lines of the original goal, to be able to see, at a glance, this comparison across the most used fiat currencies.
 
-I mocked up a grid layout, with each currency occupying a segment of the grid.  Making sure there's no gaps or orphans on desktop and tablet view. This bought into focus the fact that I might have to omit some currencies that the API provides.
+I mocked up a grid layout, with each currency occupying a segment of the grid. Making sure there's no gaps or orphans on desktop and tablet view. This bought into focus the fact that I might have to omit some currencies that the API provides.
 
 Ultimately I made the decision that this was to be a curated list of currencies, as opposed to _show everything the API returns_. With this, I can choose which currencies to show based on how well known they are, shock value (Nigerian Naira anyone?) And maintain control of the layout.
 

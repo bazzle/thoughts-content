@@ -4,7 +4,7 @@ slug: 2026-03-16
 date: 2026-03-16
 excerpt: The often overlooked, difficult to quantify and difficult to replicate but nearly always greatly desired.
 tags:
-  - thoughts
+  - Thoughts
 ---
 
 The often overlooked, difficult to quantify and difficult to replicate but nearly always greatly desired.

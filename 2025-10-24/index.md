@@ -349,9 +349,12 @@ Often, they can even require the isolation of illegal content and turning over s
 Laws vary around the world, but there are a few crucial differences to note:
 
 #### ISPs are generally unaware of the illegal content. However, for Bitcoin to function, nodes must continue to distribute the blockchain long after and despite being aware of any content in it.
+
 #### ISPs are often required to quarantine and/or remove offending content to maintain their immunity. This option is not available for the Bitcoin network except by shutting down (which is likely to be considered a valid option that must be taken in many jurisdictions).
+
 #### The Internet, even using Tor, is generally a hostile environment to immoral content. However, if Bitcoin supports such content sharing, it easily becomes a very favourable network for these kinds of crimes.
-  Furthermore, even if governments were to make special provisions exempting Bitcoin nodes, it would remain reprehensible to the general public to participate in such distribution (and for good reason).
+
+Furthermore, even if governments were to make special provisions exempting Bitcoin nodes, it would remain reprehensible to the general public to participate in such distribution (and for good reason).
 
 #### Why not let the fee market manage data storage?
 

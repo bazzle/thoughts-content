@@ -4,7 +4,7 @@ slug: 2025-07-31
 date: 2025-07-31
 excerpt: Github pages and 11ty fun, Processwire and some Knut Svanholm
 tags:
-  - month notes
+  - Month notes
 ---
 ## Week ending 6th July 2025
 

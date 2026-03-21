@@ -4,7 +4,7 @@ slug: 2026-01-31
 date: 2026-01-31
 excerpt: Valuarchy website, JS fundamentals with a new tool
 tags:
-  - month notes
+  - Month notes
 ---
 ## Week ending 4th January 2026
 

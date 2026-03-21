@@ -4,7 +4,7 @@ slug: 2026-03-07
 date: 2026-03-07
 excerpt: And why every delivery team should have one
 tags:
-  - thoughts
+  - Thoughts
 ---
 
 <PostImage src="business-case-for-engineer-featured2.png" alt="Graphic image of 3D printer etching out a web browser model" />

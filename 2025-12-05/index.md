@@ -4,7 +4,7 @@ slug: 2025-12-05
 date: 2025-12-05
 excerpt: This post is the result of a shower thought, around the verb _to tinker_, and what this means in a Design Engineer context.
 tags:
-  - design
+  - Thoughts
 ---
 
 This post is the result of a shower thought, around the verb _to tinker_, and what this means in a Design Engineer context.

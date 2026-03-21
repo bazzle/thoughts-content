@@ -4,7 +4,7 @@ slug: 2025-06-30
 date: 2025-06-30
 excerpt: Prague, fine weather, Bitcoin hardware setup
 tags:
-  - month notes
+  - Month notes
 ---
 ## Week ending 8th June 2025
 

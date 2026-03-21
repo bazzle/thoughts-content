@@ -4,7 +4,7 @@ slug: 2025-04-30
 date: 2025-04-30
 excerpt: Netlify, decap, git, sass
 tags:
-  - month notes
+  - Month notes
 ---
 
 Had a busy month at dxw. Outside work hours I've been working on this website, and going down a few rabbit holes.

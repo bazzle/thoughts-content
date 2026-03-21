@@ -19,11 +19,11 @@ He wrote the short book, describing the system in detail, which I edited. Publis
 
 Brendan needed a central location where people can be introduced to Valuarchy and where the book can be downloaded. I was happy to put this together for him. The website would accommodate the following at v1:
 
-* A hero section as the main focal point
-* some content introducing Valuarchy
-* book download links
-* Bitcoin donate widget using [https://www.blink.sv/](https://www.blink.sv/)
-* Social media links
+- A hero section as the main focal point
+- some content introducing Valuarchy
+- book download links
+- Bitcoin donate widget using [https://www.blink.sv/](https://www.blink.sv/)
+- Social media links
 
 To make things interesting, I challenged myself to build this in 8 hours, fully accessible, configured and optimised. With minimal AI usage. The reason for this, is because I came across a tweet from a director at a well known crypto wallet company, boast about how their junior dev vibe coded a similarly basic single-pager in a day. I thought I could hand-code a site like that in that time. Chest-beating aside, I managed to do it in around about 9 hours. Not a bad effort against AI automation.
 
@@ -46,6 +46,6 @@ The language is quite forceful and serious to reflect the seriousness of the pro
 
 ## Challenges
 
-* **Nostr profile link**. Nostr is a decentralised protocol for communication, a nostr _profile_ is just like a public/private key that can be used to login to different websites. So where should a nostr profile live? what can be linked to? After some research, I found [njump.me](njump.me) which is as buggy and unintuitive as you'd expect for a website built on something as new and experimental as nostr. I dropped a message to the maintainer, offering to redo the UI for setting up a profile.
-* **Social media/contact icon** Finding svg icons that are similar in stroke weights is never a breeze. Had to tweak to make them look right.
-* **Email address** What is the best pattern for sharing an email address? Brendan's email address exposed on the front-end, will inevitably result in his inbox becoming inundated with spam. Without the time to create a contact form in this iteration, hiding it in a `mailto` link is a slight improvement.
+- **Nostr profile link**. Nostr is a decentralised protocol for communication, a nostr _profile_ is just like a public/private key that can be used to login to different websites. So where should a nostr profile live? what can be linked to? After some research, I found [njump.me](njump.me) which is as buggy and unintuitive as you'd expect for a website built on something as new and experimental as nostr. I dropped a message to the maintainer, offering to redo the UI for setting up a profile.
+- **Social media/contact icon** Finding svg icons that are similar in stroke weights is never a breeze. Had to tweak to make them look right.
+- **Email address** What is the best pattern for sharing an email address? Brendan's email address exposed on the front-end, will inevitably result in his inbox becoming inundated with spam. Without the time to create a contact form in this iteration, hiding it in a `mailto` link is a slight improvement.

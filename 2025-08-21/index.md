@@ -4,7 +4,7 @@ slug: 2025-08-21
 date: 2025-08-21
 excerpt: Fun project looking at how the price of a satoshi compares to the smallest units of different fiat currencies.
 tags:
-  - projects
+  - Projects
 ---
 Pulling in data from blockchain.com [exchange rates API](https://www.blockchain.com/explorer/api/exchange_rates_api), I decided to create a tongue-in-cheek infographic, presenting a perspective on how the smallest fiat currency units stack up against satoshis (sats). Which is the smallest unit in Bitcoin. (there are 100m sats in 1 bitcoin)
 
