@@ -4,10 +4,12 @@ slug: 2026-04-03
 date: 2026-04-03
 excerpt: For a long time I’ve had an idea in my mind for how desktop browser tabs should work. It wasn’t a sudden light-bulb moment, more of a recurring nagging in my mind, asking “why hasn’t this been done yet?”
 tags:
-  - Thoughts
+  - Showcase
 ---
 
 <PostImage src="signpost.jpg" alt="Signposts with signs pointing to various websites. Google, x.com, localhost" />
+
+TLDR: I made a thing. [Megatabs — How browser tabs should work! (prototype)](https://megatabs.netlify.app/)
 
 For a long time I’ve had an idea in my mind for how desktop browser tabs should work. It wasn’t a sudden light-bulb moment, more of a recurring nagging in my mind, asking “why hasn’t this been done yet?”
 

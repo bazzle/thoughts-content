@@ -7,7 +7,7 @@ tags:
   - Showcase
 ---
 
-### UPDATE January 2025
+### UPDATE January 2026
 
 I migrated the website away from WordPress to a static site built in Eleventy. Seemed appropriate for this website which only I update.
 
