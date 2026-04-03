@@ -7,6 +7,8 @@ tags:
   - Thoughts
 ---
 
+<PostImage src="signpost.jpg" alt="Signposts with signs pointing to various websites. Google, x.com, localhost" />
+
 For a long time I’ve had an idea in my mind for how desktop browser tabs should work. It wasn’t a sudden light-bulb moment, more of a recurring nagging in my mind, asking “why hasn’t this been done yet?”
 
 Here’s the problem. I often get drowned in browser tabs. And it’s not just me. It’s a regular theme of small-talk when I’m on screen shares with people. I call it the **chronic overconsumption of tabs**.
