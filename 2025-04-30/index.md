@@ -1,5 +1,5 @@
 ---
-title: April 2025
+title: April
 slug: 2025-04-30
 date: 2025-04-30
 excerpt: Netlify, decap, git, sass

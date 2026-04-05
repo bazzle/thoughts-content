@@ -1,12 +1,11 @@
 ---
-title: January 2026
+title: January
 slug: 2026-01-31
 date: 2026-01-31
 excerpt: Valuarchy website, JS fundamentals with a new tool
 tags:
   - Month notes
 ---
-## Week ending 4th January 2026
 
 Back to reality after the excesses of the christmas and New Year period. Throughout the month, had the kind of weather that is not conducive to leaving the house.
 
